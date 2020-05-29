@@ -2,21 +2,21 @@
 
 ## Project List
 ### [Project 1 : Analysing Udemy's Courses with Tableau Public](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardKursusUdemy1/Jumlah)
-![tableau](https://github.com/irfangirindra/Data_science_portofolio/blob/master/fig/Harga.png)
+![tableau](/fig/Harga.png)
 
 * Create a dasboard and storyboard that analyze prize, duration, and engagement on Udemy's courses from 2014 until 2017.
 * Using interactive filter to be able analyze more easily for stakeholdes
 * The data can be downloaded on Kaggle
 
 ### [Project 2 : Epileptic Seizure EEG Dataset](https://github.com/irfangirindra/bisa-ai-data-engineering-competition-2020)
-![eeg](https://github.com/irfangirindra/Data_science_portofolio/blob/master/fig/fig_spec.jpg)
+![eeg](/fig/fig_spec.jpg)
 
 * Create a high level and low level feature extraction of EEG Signal during seizure state on epileptic patient
 * Consist of 4000+ Data
 * Data is already cleaned so it can be used by data analyst and data scientist
 
 ### [Project 3 : Rock Paper Scissor Classifier Using Convolutional Neural Network](https://github.com/irfangirindra/deep-learning/blob/master/rps-cnn/RPS-CNN.ipynb)
-![rps](https://github.com/irfangirindra/Data_science_portofolio/blob/master/fig/rpp.png)
+![rps](/fig/rpp.png)
 
 * Create a deep learning model that can classify rock paper and scissor images
 * Using data augmentation technique to increase more data to train
