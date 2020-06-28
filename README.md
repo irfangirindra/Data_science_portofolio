@@ -1,19 +1,20 @@
 # Irfan Girindra's Portofolio
 
 ## Project List
-### [Project 1 : Analysing Udemy's Courses with Tableau Public](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardKursusUdemy1/Jumlah)
+### [Project 1 : Indonesia's COVID 19 Interactive Dashboard](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardCOVID19Indonesia/DashboardAkhir)
+![tableau](/fig/DashboardAkhir.png)
+
+* Create a dasboard that analyze COVID 19 cases in Indonesia 
+* Using interactive filter to be able analyze more easily for everyone
+* The data can be downloaded on Kaggle
+
+
+### [Project 2 : Analysing Udemy's Courses with Tableau Public](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardKursusUdemy1/Jumlah)
 ![tableau](/fig/Harga.png)
 
 * Create a dasboard and storyboard that analyze prize, duration, and engagement on Udemy's courses from 2014 until 2017.
 * Using interactive filter to be able analyze more easily for stakeholdes
 * The data can be downloaded on Kaggle
-
-### [Project 2 : Epileptic Seizure EEG Dataset](https://github.com/irfangirindra/bisa-ai-data-engineering-competition-2020)
-![eeg](/fig/fig_spec.jpg)
-
-* Create a high level and low level feature extraction of EEG Signal during seizure state on epileptic patient
-* Consist of 4000+ Data
-* Data is already cleaned so it can be used by data analyst and data scientist
 
 ### [Project 3 : Rock Paper Scissor Classifier Using Convolutional Neural Network](https://github.com/irfangirindra/deep-learning/blob/master/rps-cnn/RPS-CNN.ipynb)
 ![rps](/fig/rpp.png)
@@ -21,6 +22,22 @@
 * Create a deep learning model that can classify rock paper and scissor images
 * Using data augmentation technique to increase more data to train
 * Model successfully can classify images with 90% accuracy
+
+## Competition Submission
+### [BISA AI Data Engineering 2020 Competition: Epileptic Seizure EEG Dataset](https://github.com/irfangirindra/bisa-ai-data-engineering-competition-2020)
+![eeg](/fig/fig_spec.jpg)
+
+* Create a high level and low level feature extraction of EEG Signal during seizure state on epileptic patient
+* Consist of 4000+ Data
+* Data is already cleaned so it can be used by data analyst and data scientist
+
+### Shopee Code League 2020
+* [Challenge #3 (Search Engine)](https://github.com/irfangirindra/shopee-code-league/blob/master/challenge-3/search-engine.ipynb)
+* [Challenge #3 (Judging Server)](https://github.com/irfangirindra/shopee-code-league/blob/master/challenge-3/judging-server.ipynb)
+
+### Kaggle
+* [Twitter Sentiment Extraction 2020 using roBERTa](https://github.com/irfangirindra/deep-learning/blob/master/TSE_roBERTa/twitter_sentiment_extraction_roBERTa.ipynb)
+* [Titanic Survivor](https://github.com/irfangirindra/deep-learning/blob/master/Titanic-survivor/titanic.ipynb)
 
 ## Achievement
 [Best science on BISA AI Data Engineering Competition 2020](https://medium.com/bisa-ai/report-dataset-kompetisi-data-engineering-4-epileptic-seizure-eeg-dataset-6b4fde4a4de9)
@@ -41,6 +58,9 @@
 * [Belajar Machine Learning untuk Pemula](https://github.com/irfangirindra/Data_science_portofolio/blob/master/certificate/DICODING%20-%20Machine%20Learning.pdf)
 * [Pemrograman Dengan Python](https://github.com/irfangirindra/Data_science_portofolio/blob/master/certificate/DICODING%20-%20Python.pdf)
 
+### Google Analytics
+* [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/jJfr4yV6Q3aW6DeKIiFLTQ)
+
 ### SuperDataScience (Udemy)
 * [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/certificate/UC-71919c16-0a81-4a39-b284-dac14357e15a/)
 * [Power BI A-Z: Hands-On Power BI Training For Data Science!](https://www.udemy.com/certificate/UC-db844fab-7c27-4839-95ee-94f14c00a34f/)
@@ -53,6 +73,6 @@
 
 
 ## Other links
-
+* [Kaggle Profile](https://www.kaggle.com/irfangirindra)
 * [LinkedIn](https://www.linkedin.com/in/irfangirindra/)
 * [Tableau Publis Profile](https://public.tableau.com/profile/irfan.girindra#!/)
