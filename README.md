@@ -32,6 +32,7 @@
 * Data is already cleaned so it can be used by data analyst and data scientist
 
 ### Shopee Code League 2020
+* [Challenge # 1: Order Brushing](https://github.com/irfangirindra/shopee-code-league/blob/master/order_brushing.ipynb)
 * [Challenge #3 (Search Engine)](https://github.com/irfangirindra/shopee-code-league/blob/master/challenge-3/search-engine.ipynb)
 * [Challenge #3 (Judging Server)](https://github.com/irfangirindra/shopee-code-league/blob/master/challenge-3/judging-server.ipynb)
 
