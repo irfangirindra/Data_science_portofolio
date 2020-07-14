@@ -4,7 +4,7 @@
 ### [Project 1 : Indonesia's COVID 19 Interactive Dashboard](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardCOVID19Indonesia/DashboardAkhir)
 ![tableau](/fig/DashboardAkhir.png)
 
-* Create a dasboard that analyze COVID 19 cases in Indonesia 
+* Create a dashboard that analyze COVID 19 cases in Indonesia 
 * Using interactive filter to be able analyze more easily for everyone
 * The data can be downloaded on Kaggle
 
@@ -12,8 +12,8 @@
 ### [Project 2 : Analysing Udemy's Courses with Tableau Public](https://public.tableau.com/profile/irfan.girindra#!/vizhome/DashboardKursusUdemy1/Jumlah)
 ![tableau](/fig/Harga.png)
 
-* Create a dasboard and storyboard that analyze prize, duration, and engagement on Udemy's courses from 2014 until 2017.
-* Using interactive filter to be able analyze more easily for stakeholdes
+* Create a dashboard and storyboard that analyze prize, duration, and engagement on Udemy's courses from 2014 until 2017.
+* Using interactive filter to be able analyze more easily for stakeholders
 * The data can be downloaded on Kaggle
 
 ### [Project 3 : Rock Paper Scissor Classifier Using Convolutional Neural Network](https://github.com/irfangirindra/deep-learning/blob/master/rps-cnn/RPS-CNN.ipynb)
