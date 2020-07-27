@@ -61,6 +61,7 @@
 
 ### Google Analytics
 * [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/jJfr4yV6Q3aW6DeKIiFLTQ)
+* [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/0SXu8lH3RRq1qLMJX_DDHg)
 
 ### SuperDataScience (Udemy)
 * [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/certificate/UC-71919c16-0a81-4a39-b284-dac14357e15a/)
